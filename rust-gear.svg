@@ -16,6 +16,9 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Gear part of logo for the Rust programming language</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:creator>Mozilla Foundation</dc:creator>
+        <dc:creator>Zachary Catlin</dc:creator>
         <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
       </cc:Work>
       <cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
