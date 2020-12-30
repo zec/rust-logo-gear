@@ -4,7 +4,7 @@ This is the 'gear' part of the [Rust logo], without the 'R':
 
 <p align="center"><img height="216" width="216" alt="gear part of Rust logo" src="rust-gear-min.svg"></p>
 
-This can be useful for creating logos for Rust-based projects (like, for example, what was done for [Lyon]).
+This can be useful for creating logos for Rust-based projects (like, for example, what was done for [Lyon] and [xi-editor]).
 
 Like the Rust logo itself, this is [CC BY 4.0] licensed: basically, as far as **copyright** is concerned, you can use or modify this for any purpose, so long as credit is given to the [Mozilla Foundation] (the original creator of the Rust logo) and [Zachary Catlin] (who created this derived graphic). However, the Rust logo is also a **trademark**, with some restrictions on how it can be used, so check the [Rust media guide] to make sure your use of this file (or a derived version thereof) is OK.
 
@@ -13,9 +13,10 @@ Like the Rust logo itself, this is [CC BY 4.0] licensed: basically, as far as **
 As for how the gear was created: I started with the stock Rust logo and then used Rust forum user Aloso's [general procedure] for removing the unwanted parts of the shape, followed by some hand-editing of the resultant SVG file.
 
 [Rust logo]: https://www.rust-lang.org/policies/media-guide#rust-trademarks
-[Lyon]: https://github.com/nical/lyon
-[CC BY 4.0]: https://creativecommons.org/licenses/by/4.0/
 [Rust media guide]: https://www.rust-lang.org/policies/media-guide
-[general procedure]: https://users.rust-lang.org/t/how-to-remove-the-r-symbol-from-the-rust-symbol/25897/17
+[CC BY 4.0]: https://creativecommons.org/licenses/by/4.0/
 [Mozilla Foundation]: https://foundation.mozilla.org/
 [Zachary Catlin]: https://github.com/zec
+[Lyon]: https://github.com/nical/lyon
+[xi-editor]: https://github.com/xi-editor/xi-editor
+[general procedure]: https://users.rust-lang.org/t/how-to-remove-the-r-symbol-from-the-rust-symbol/25897/17
