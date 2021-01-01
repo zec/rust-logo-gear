@@ -6,7 +6,7 @@ This is the 'gear' part of the [Rust logo], without the 'R':
 
 This can be useful for creating logos for Rust-based projects (like, for example, what was done for [Lyon] and [xi-editor], which predate this project).
 
-Like the Rust logo itself, this is [CC BY 4.0] licensed: basically, as far as **copyright** is concerned, you can use or modify this for any purpose, so long as credit is given to the [Mozilla Foundation] (the original creator of the Rust logo) and [Zachary Catlin] (who created this derived graphic). However, the Rust logo is also a **trademark**, with some restrictions on how it can be used, so check the [Rust media guide] to make sure your use of this file (or a derived version thereof) is OK.
+Like the Rust logo itself, this is [CC BY 4.0] licensed: basically, as far as **copyright** is concerned, you can use or modify this for any purpose, so long as credit is given to the [Mozilla Foundation] (the original creator of the Rust logo) and [Zachary Catlin] (who created this derived graphic), you mention that you've made modifications (if any), and a link is provided to the CC BY 4.0 license. However, the Rust logo is also a **trademark**, with some restrictions on how it can be used, so check the [Rust media guide] to make sure your use of this file (or a derived version thereof) is OK.
 
 `rust-gear.svg` has a more "human-readable" layout; `rust-gear-min.svg` has been streamlined for smaller size, and is probably what you want to use in derived works.
 
