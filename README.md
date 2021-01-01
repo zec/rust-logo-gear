@@ -10,7 +10,7 @@ Like the Rust logo itself, this is [CC BY 4.0] licensed: basically, as far as **
 
 `rust-gear.svg` has a more "human-readable" layout; `rust-gear-min.svg` has been streamlined for smaller size, and is probably what you want to use in derived works.
 
-As for how the gear was created: I started with the stock Rust logo and then used Rust forum user Aloso's [general procedure] for removing the unwanted parts of the shape, followed by some hand-editing of the resultant SVG file.
+As for how the gear was created: I started with the stock Rust logo and then used Rust forum user Aloso's [general procedure] for removing the unwanted parts of the path, followed by some hand-editing of the resultant SVG file.
 
 [Rust logo]: https://www.rust-lang.org/policies/media-guide#rust-trademarks
 [Rust media guide]: https://www.rust-lang.org/policies/media-guide
