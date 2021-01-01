@@ -17,6 +17,6 @@ As for how the gear was created: I started with the stock Rust logo and then use
 [CC BY 4.0]: https://creativecommons.org/licenses/by/4.0/
 [Mozilla Foundation]: https://foundation.mozilla.org/
 [Zachary Catlin]: https://github.com/zec
-[Lyon]: https://github.com/nical/lyon
-[xi-editor]: https://github.com/xi-editor/xi-editor
+[Lyon]: https://github.com/nical/lyon/tree/0.15.0#readme
+[xi-editor]: https://github.com/xi-editor/xi-editor/tree/xi-unicode-v0.2.1#readme
 [general procedure]: https://users.rust-lang.org/t/how-to-remove-the-r-symbol-from-the-rust-symbol/25897/17
